@@ -1,0 +1,17 @@
+dependencies:
+  cmake_utilities:
+    dependencies: []
+    source:
+      path: /home/dd21/project/hello_world/components/cmake_utilities
+      type: local
+    version: 0.5.3
+  idf:
+    source:
+      type: idf
+    version: 5.0.2
+direct_dependencies:
+- espressif/cmake_utilities
+- idf
+manifest_hash: f86014768b232af36ed3de6a617111a7fc565cee628aba10298aa62177235045
+target: esp32
+version: 2.0.0

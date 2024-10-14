@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.qmd": "markdown",
+        "*.md": "markdown",
+        "gpio.h": "c",
+        "queue.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "esp_log.h": "c",
+        "led.h": "c",
+        "esp_flash.h": "c",
+        "iot_button.h": "c",
+        "sdkconfig.h": "c",
+        "inttypes.h": "c",
+        "esp_chip_info.h": "c",
+        "stdio.h": "c"
+    },
+    "idf.adapterTargetName": "esp32s3",
+    "C_Cpp.default.compilerPath": "/home/dd21/.espressif/tools/xtensa-esp32s3-elf/esp-2022r1-11.2.0/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-gcc"
+}
